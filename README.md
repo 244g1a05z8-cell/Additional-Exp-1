@@ -1,3 +1,5 @@
+# Additional Expt-1
+```java
 import java.util.Scanner;
 
 class Substring {
@@ -24,3 +26,6 @@ class Substring {
         }
     }
 }
+```
+# output:
+![output of substring](AdditionalExperiment-1.png)
